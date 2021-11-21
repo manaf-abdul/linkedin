@@ -1,0 +1,448 @@
+body{
+    margin: 0;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue","Fira Sans",Ubuntu,Oxygen,"Oxygen Sans",Cantarell,"Droid Sans","Apple Color Emoji","Segoe UI Emoji","Segoe UI Emoji","Segoe UI Symbol","Lucida Grande",Helvetica,Arial,sans-serif;
+}
+
+.header{
+    width:100%;
+    height: 70px;
+    float: left;
+}
+.toplogo{
+  width: 50%;
+  height: 70px;
+  float: left;
+}
+.image1{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+.login-controls{
+    width: 50%;
+    height: 70px;
+    float: left;  
+}
+.join-button{
+margin-top: 13px;
+margin-left: 350px;
+border: none;
+font-size: 17px;
+font-weight: 600;
+border-radius: 3px;
+background: white;
+color: grey;
+width: 80px;
+height: 40px;
+}
+.join-button:hover{
+background: #C5C5C5;
+color: black;
+border: none;
+}
+
+.sign-button{
+border-width: 1px;
+border-radius: 125px;
+border-color: #0a66c2;
+color: #0a66c2;
+background: none;
+font-size: 17px;
+height: 39px;
+width: 100px;
+font-weight: 600;
+}
+.sign-button:hover{
+border-width: 2px;
+border-color: #0a66c2;
+background: #e9f3fe;
+}
+.main-body{
+    width: 100%;
+    height: 3000px;
+    float: left;
+}
+.body1{
+    width: 100%;
+    height:650px;
+    float: left;
+}
+.left1{
+    width: 50%;
+    height: 700px ;
+    float: left;
+ 
+}
+.right1{
+    width: 50%;
+    height: 700px;
+  
+float: left;
+}
+.para{
+    width:100%;
+    height: 230px;
+    
+}
+.paratext{
+ margin-top: 45px;   
+font-size: 56px;
+font-weight: lighter;
+margin-left: 70px;
+color: rgba(143, 88, 73, 1);
+float: left;
+}
+.input-data{
+    height: 270px;
+    width: 100%;
+    
+}
+.input-button1{
+    margin-bottom: 5px;
+    margin-left: 70px;
+    width: 400px;
+    height: 40px;
+    font-family: inherit;
+}
+.input-button2{
+    margin-left: 70px;
+    width: 400px;
+    height: 40px;
+    margin-bottom: 10px;
+    font-family: inherit;
+}
+.forgot{
+    margin-left: 70px;
+    font-size: 17px;
+    color: rgba(0,0,0,0.9);
+    text-decoration: none;
+    font-family: inherit;
+    
+}
+.sign-in-button{
+    margin-left: 70px;
+    width: 408px;
+    height: 50px;
+    color:white ;
+    background: #2977c9;
+    border: none;
+    font-family: inherit;
+    font-size: 20px;
+    border-radius: 50px;
+}
+.sign-in-button:hover{
+    background: #054e9c;
+}
+.gbutton{
+    color: black;
+    margin-top: 10px;
+    margin-left: 70px;
+    width: 408px;
+    height: 50px;
+    background: white;
+    font-size: 20px;
+    border-radius: 50px;
+    font-size: 20px;
+    border: solid;
+    border-width: thin;
+}
+.button-image{
+width: 20px;
+}
+.gbutton:hover{
+    border-width: 2px;
+    background: #e9f3fe;
+}
+.image2{
+    margin-top: 70px;
+}
+.body2{
+background: rgba(0, 0, 0, 0.041);
+    height: 450px;
+    width: 100%;
+    float: left;
+}
+.left2{
+    padding-left: 70px;
+    height: 450px;
+    width: 35%;
+    float: left;
+}
+.right2{
+    padding-left: 20px;
+    height:450px;
+    width:50%;
+    float: left;
+}
+.side-headlines{
+margin-top: 20px;
+font-size: 48px;
+font-weight: lighter;
+float: left;
+}
+.topic-buttons{
+    width: auto;
+    padding:20px;
+    font-size: 20px ;
+    color: rgba(0,0,0,0.6);
+    border-radius: 50px;
+    background: rgba(0,0,0,0.08);
+    border: none;
+}
+.topic-buttons:hover{
+text-decoration: underline;
+background: rgba(5, 5, 5, 0.247);
+cursor: pointer;
+}
+.left3{
+  
+    width: 35%;
+    height:450px ;
+    float: left;
+    padding-left: 80px;
+    padding-top: 25px;
+}
+.right3{
+    padding-left: 10px;
+    padding-top: 25px;
+    width: 50%;
+    height: 450px ;
+    float: left;
+}
+.body4-left{
+    color: maroon;
+    font-size: 40px;
+    padding-top: 20px;
+    padding-left: 70px;
+    width: 35%;
+    float: left;
+    height: 250px;
+    background: rgba(128, 0, 0, 0.062);
+}
+.para4{
+    font-size: x-large;
+}
+.body4-right{
+    color: maroon;
+    font-size: 40px;
+    width: 59.5%;
+    float: left;
+    height: 270px;
+    background: rgba(128, 0, 0, 0.062);
+}
+.button1{
+    margin-top: 70px;
+}
+.body5-left{
+    width: 50%;
+    height: 650px;
+    float: left;
+}
+.body5-left-text{
+    color:  #2977c9;
+    margin-left: 70px;
+    margin-top: 200px;
+    font-size: 40px;
+    height: 60px;
+}
+.body5-left-subtext{
+    margin-left: 70px;
+    font-size: 30px;
+    height: 60px;
+    font-weight: lighter;
+}
+.body5-right{
+    width: 50%;
+    height: 650px;
+    float: left;
+}
+.body5-right-image{
+    margin-top: 80px;
+    margin-left: 65px;
+    width: 500px;
+    height: 500px;;
+}
+.body6-left{
+    padding-left: 70px;
+    width: 45%;
+    height: 750px;
+    float: left;
+}
+.body6-left-image{
+    margin-top: 50px;
+    width: 400px;
+    height: 300px;
+}
+.body6-left-subtext{
+    font-size: 50px;
+    font-weight: lighter;
+    height: 75px;
+}
+.body6-right{
+    padding-left: 80px;
+    width: 40%;
+    height: 750px;
+    float: left;
+}
+.square-button{
+    width: auto;
+    padding:20px;
+    font-size: 20px ;
+    color: rgba(0,0,0,0.6);
+    background: rgba(0,0,0,0.08);
+    border: none;
+    border-radius: 1px;
+}
+.square-button:hover{
+    text-decoration: underline;
+    background: rgba(5, 5, 5, 0.247);
+    cursor: pointer;
+}
+.body7-left{
+width: 30%;
+height: 800px;
+background:none;
+}
+.video1{
+    margin-left: 70px;
+    margin-top: 180px;
+}
+.body7-right{
+    margin-left: 400px;
+    width: 70%;
+    height: 700px;
+    background:rgba(135, 206, 250, 0.096);
+    float: left;
+}
+.video-text{
+    margin-left: 300px;
+    margin-top: 320px;
+    font-size: 40px;
+    font-weight: 400;
+    color: rgba(178, 64, 32, 1);
+}
+.body8{
+    float: left;
+    width: 95%;  
+    height: 200px;
+    font-size: 56px;
+    font-weight: lighter;
+    padding-left: 70px;
+    color: black;
+    float: left;
+}
+.body9{
+    width: 100%;
+    height: 70px;
+    float: left;
+}
+.get-started-button{
+    margin-left: 70px;
+    width: auto;
+    padding:20px;
+    font-size: 20px ;
+    color: white;
+    border-radius: 50px;
+    background:    #004182;
+    border: none;
+}
+.get-started-button:hover{
+    background:    #004182d0;
+    text-decoration: underline;
+}
+.body10{
+    width: 100%;
+    height: 550px;
+    float: left;
+    background: lightblue;
+}
+.footer-body1{
+    width: 20%;
+    height: 400px;
+    float: left;
+}
+.footer-body2{
+    width: 10%;
+    padding-left: 80px;
+    height: 430px;
+    float: left;   
+    text-align: left;
+    line-height: 25px;
+    font-size: 15px;
+    font-weight: bold;
+    color: grey;
+}
+.footer-body3{
+    padding-left: 30px;
+    float: left;   
+    text-align: left;
+    line-height: 25px;
+    font-size: 15px;
+    font-weight: bold;
+    color: grey;
+    width: 14%;
+    height: 430px;
+}
+.footer-body4{
+    width: 18%;
+    height: 430px;
+    float: left;      
+    text-align: left;
+    line-height: 25px;
+    font-size: 15px;
+    font-weight: bold;
+    color: grey;
+    padding-left: 0px;
+
+}
+.footer-body5{
+    width: 20%;
+    height: 430px;
+    float: left;
+    text-align: left;
+    line-height: 25px;
+    font-size: 15px;
+    font-weight: bold;
+    color: grey;
+}
+.footer-main-text{
+    font-size: 17px;
+    color: black;
+    line-height: 2;
+}
+a{
+    text-decoration: none;  
+    color: grey;
+}
+a:hover{
+    text-decoration: underline;
+    color:  #004182;
+    cursor: pointer;
+}
+.footer-lists{
+    text-align: left;
+    list-style-type: none;
+    padding: 0;
+ 
+}
+.footer2-body1{
+    font-size: small;
+    width: 5%;
+    height: 20px;
+    float: left;
+    padding-top: 29px;
+padding-left: 65px;
+font-weight: bold;
+}
+.footer2-body2{
+    font-size: small;
+    width: 89%;
+    height: 50px;
+    float: left;
+    font-weight: bold;
+    
+}
+.footer2-lists{
+float: left;
+margin-right: 20px;
+margin-top: 15px;
+}
